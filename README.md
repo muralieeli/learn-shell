@@ -1,2 +1,2 @@
 # learn-shell
-list of shell script topics
+list of shell script topics in
